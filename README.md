@@ -1,7 +1,7 @@
-Emby Server
+Nasflix Server
 ============
 
-Emby Server is a personal media server with apps on just about every device.
+Nasflix Server is a personal media server with apps on just about every device.
 
 It features a REST-based API with built-in documention to facilitate client development. We also have client libraries for our API to enable rapid development.
 
@@ -24,7 +24,7 @@ It features a REST-based API with built-in documention to facilitate client deve
 
 ## New Users ##
 
-If you're a new user looking to install Emby Server, please head over to [emby.media](http://www.emby.media/ "emby.media")
+If you're a new user looking to install Nasflix Server, please head over to [emby.media](http://www.emby.media/ "emby.media")
 
 ## Developer Info ##
 
